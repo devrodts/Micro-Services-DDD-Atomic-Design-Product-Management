@@ -1,9 +1,10 @@
+"use client";
 import {Search} from "lucide-react";
 import { SearchInputInterface } from "./search-input.interface";
 
 
 const SearchInput = ({children, divClassName, inputClassName, placeholder, onChange, value, icon, iconPosition}: SearchInputInterface) => {
-
+    
     return(
         <div className={`relative flex h-min w-[200px] ${divClassName}`}>
             {icon && <Search className={`absolute left-[4px] top-1/2 mr-2 h-5 w-5 -translate-y-1/2 transform cursor-pointer text-gray-500 dark:text-white ${iconPosition === "left" ? "left-[4px]" : "right-[4px]"}`} />}
