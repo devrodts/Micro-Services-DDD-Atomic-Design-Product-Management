@@ -90,7 +90,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or support, please contact [support@yourcompany.com](mailto:support@yourcompany.com).
+For any inquiries or support, please contact (mailto:dev_rodts@outlook.com).
 ```
-
-You can copy the above Markdown content and paste it into your README file. If you need further customization or have any questions, feel free to ask!
